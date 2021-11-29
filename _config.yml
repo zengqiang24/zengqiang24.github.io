@@ -4,8 +4,8 @@
 
 # Site
 title: Zeng, Qiang
-subtitle: '重复，重复，重复！'
-description: '日常总结'
+subtitle: '日常总结'
+description: ''
 keywords:
 author: Zeng, Qiang
 language: zh-Hans
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
